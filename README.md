@@ -1,6 +1,9 @@
-# layout Pioner
+## <h1 align="center">Layout | <a href="https://vitebskiy.github.io/site-Travelx/" target="_blank">Pioner</a> 
 
-- **Semantic** – correct use of tags according to their meaning
-- **Responsive** – comfortable viewing of the page from any device and any screen size
-- **Accessibility** – Keyboard navigation and easy access via screen reader
-- **Cross-browser compatibility** – correct and identical page display in Chrome, Firefox, Opera, Safari, Edge latest versions, without IE support
+<img src="https://i.postimg.cc/bN2sCQL8/2023-11-26-10-33-07.png"/></h1>
+
+## How to use
+1. Install deps `npm i`
+2. Run `gulp`
+
+### Demo: <a href="https://vitebskiy.github.io/site-Travelx/" target="_blank">Pioner</a> 
